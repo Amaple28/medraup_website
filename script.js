@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             // ⚠️ SUBSTITUA pelo número real antes de publicar
-            const whatsappNumber = '5531986274984';
+            const whatsappNumber = '5531982917401';
 
             const whatsappMessage = [
                 '👋 Olá! Gostaria de iniciar um atendimento pela MedraUp.',
